@@ -7,6 +7,7 @@
     "v4": "npm install electron@^4 && npm start",
     "v5": "npm install electron@^5 && npm start",
     "v6": "npm install electron@^6 && npm start",
+    "v7": "npm install electron@^7.0.0-beta && npm start",
     "start": "electron ."
   },
   "repository": "https://github.com/electron/electron-quick-start",
@@ -20,6 +21,6 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^6.0.10"
+    "electron": "^7.0.0-beta.4"
   }
 }
